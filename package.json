@@ -1,5 +1,6 @@
 {
   "name": "imjkino-portfolio",
+  "homepage": "http://jkinodev.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
