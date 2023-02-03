@@ -11,9 +11,9 @@
 }
 
 :root {
-    --color-bg: #8e8e8e;
-    --color-bg-varient: #c1432e;
-    --color-primary: #ce9e62;
+    --color-bg: #887474;
+    --color-bg-varient: #a8453e;
+    --color-primary: #9aab92;
     --color-primary-variant: #4b6777;
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
@@ -62,6 +62,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+
 }
 
 section>h2,
