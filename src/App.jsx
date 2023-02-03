@@ -6,7 +6,7 @@ import Experience from "./Components/experience/Experience";
 import About from "./Components/about/About";
 import Services from "./Components/services/Services";
 import Portfolio from "./Components/portfolio/Portfolio";
-import Testimonials from "./Components/testimonials/Testimonials";
+// import Testimonials from "./Components/testimonials/Testimonials";
 import Contact from "./Components/contact/Contact";
 import Footer from "./Components/footer/Footer"
 
@@ -19,7 +19,7 @@ function App() {
       <Experience />
       <Services />
       <Portfolio />
-      <Testimonials />
+      {/* <Testimonials />    Need to get more testimonials before posting*/}
       <Contact />
       <Footer />
     </>
